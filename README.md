@@ -1,5 +1,5 @@
 # HotSpot
-### Link to Website: https://uic-cs484.github.io/assignment-1---team-project-proposal-team7/proposal.html <br><br>
+### ~~Link to Website: https://uic-cs484.github.io/assignment-1---team-project-proposal-team7/proposal.html~~ We've shifted to a React app from assignment 2 onwards <br><br>
 # Members
 ### **Christina "Boss" Wen Gehua**  
 Owner of the idea and reponsible for resolving disputes in the group. 
