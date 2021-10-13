@@ -1,14 +1,13 @@
-class Home extends React.Component {
-    render() {
-      return (
-        <div>
-          Hello {this.props.name}
-        </div>
-      );
-    }
+import React, { Component } from 'react';
+
+class Home extends Component {
+  render() {
+    return (
+      <div>
+        This is the home page
+      </div>
+    );
   }
-  
-  ReactDOM.render(
-    <Home name="Taylor" />,
-    document.getElementById('hello-example')
-  );
+}
+
+export default Home;

@@ -1,14 +1,13 @@
-class Signup extends React.Component {
-    render() {
-      return (
-        <div>
-          Hello {this.props.name}
-        </div>
-      );
-    }
+import React, { Component } from 'react';
+
+class Signup extends Component {
+  render() {
+    return (
+      <div>
+        
+      </div>
+    );
   }
-  
-  ReactDOM.render(
-    <Signup name="Taylor" />,
-    document.getElementById('hello-example')
-  );
+}
+
+export default Signup;

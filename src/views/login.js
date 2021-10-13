@@ -1,14 +1,13 @@
-class Login extends React.Component {
+import React, { Component } from 'react';
+
+class Login extends Component {
     render() {
-      return (
-        <div>
-          Hello {this.props.name}
-        </div>
-      );
+        return (
+            <div class="mtxl">
+               Hello {this.props.name}
+            </div>
+        );
     }
-  }
-  
-  ReactDOM.render(
-    <Login name="Taylor" />,
-    document.getElementById('hello-example')
-  );
+}
+
+export default Login;
